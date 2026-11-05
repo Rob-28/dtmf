@@ -9,7 +9,7 @@ repository = "https://github.com/gdereese/dtmf"
 keywords = ["dtmf", "parser", "telephony", "voip"]
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.14"
+python = ">=3.10"
 
 [tool.poetry.dev-dependencies]
 pylint = "^3.3.1"
